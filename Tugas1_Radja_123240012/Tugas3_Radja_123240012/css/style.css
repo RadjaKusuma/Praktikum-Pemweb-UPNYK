@@ -1,0 +1,13 @@
+/* Mengubah warna latar belakang seluruh halaman menjadi abu-abu muda */
+body {
+    background-color: #e9ecef; 
+}
+
+/* Memberi gaya pada panel konten agar terlihat seperti kartu putih */
+.content-panel {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin-top: 2rem;
+}
